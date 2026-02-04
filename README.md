@@ -31,17 +31,9 @@
 
   <h2>Intended Setup</h2>
   <ul>
-    <li>Local server using XAMPP, MAMP, or LAMP</li>
+    <li>Local server using XAMPP</li>
     <li>Laptop or desktop computer acts as the server</li>
     <li>Optional external disk for storing uploaded images</li>
-    <li>No internet connection required</li>
-  </ul>
-
-  <h2>Tech Stack</h2>
-  <ul>
-    <li>PHP</li>
-    <li>HTML</li>
-    <li>Apache (via local server stack)</li>
   </ul>
 
   <h2>Use Case</h2>
@@ -51,9 +43,3 @@
     <li>Private events</li>
     <li>Local photo collection scenarios</li>
   </ul>
-
-  <h2>Project Status</h2>
-  <p>Work in progress.</p>
-
-  <h2>License</h2>
-  <p>License not defined.</p>
