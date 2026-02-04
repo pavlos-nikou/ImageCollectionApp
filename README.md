@@ -17,7 +17,7 @@
     <li>Supports multiple image uploads</li>
     <li>Photos are stored directly on the server machine</li>
     <li>Works over a local Wi-Fi network</li>
-    <li>Mobile-friendly by default</li>
+    <li>Mobile-friendly</li>
   </ul>
 
   <h2>How It Works</h2>
